@@ -46,6 +46,7 @@ menu = '''
 4. dividir
 5. Salir
 6.Limpiar
+7.limpiar
 '''
 while sw:
     print(menu)
